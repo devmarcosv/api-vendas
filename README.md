@@ -5,3 +5,6 @@
 
 ## Subir aplicação
 - yarn dev
+
+## Executar Migração
+- yarn typeorm migration:run
